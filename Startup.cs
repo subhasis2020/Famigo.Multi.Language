@@ -36,7 +36,10 @@ namespace Famigo.MultiLanguage
                 var cultures = new List<CultureInfo>
                 {
                      new CultureInfo("en"),
-                     new CultureInfo("fr")
+                     new CultureInfo("fr"),
+                     new CultureInfo("it"),
+                     new CultureInfo("es"),
+                     new CultureInfo("pt"),
                 };
                 options.DefaultRequestCulture = new Microsoft.AspNetCore.Localization.RequestCulture("en");
                 options.SupportedCultures = cultures;

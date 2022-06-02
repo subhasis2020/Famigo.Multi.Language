@@ -118,359 +118,356 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="(YOUR_FOLLOWERS)_LABEL" xml:space="preserve">
-    <value>Vos abonnés</value>
+    <value>I tuoi follower</value>
   </data>
   <data name="AboutUs" xml:space="preserve">
-    <value>De bonnes choses se produisent lorsque la technologie rencontre l'équité !
-Chez FAMIGO, nous soutenons les fans et les créateurs avec une suite d'outils technologiques pour créer du contenu, engager vos fans, créer des abonnements et vendre à peu près tout ce que vous pouvez imaginer à un public mondial !
-Mieux encore, chez FAMIGO, tout le monde est égal. Les mêmes outils sans frais supplémentaires. Nous sommes également multiplateformes sur le Web, l'iPhone et Android afin que vous puissiez être créatif en déplacement et que vos fans puissent vivre une expérience plus riche.
-Ah, nous n'avons pas de règles ou d'algorithmes funky, et pas de frais injustes pour que vous puissiez</value>
+    <value>******************</value>
     <comment>chk</comment>
   </data>
   <data name="ACCOUNT_NUMBER_PLACEHOLDER" xml:space="preserve">
-    <value>Numéro de compte</value>
+    <value>Numero di conto</value>
   </data>
   <data name="ADD_A_COMMENT_PLACEHOLDER" xml:space="preserve">
-    <value>Ajouter un commentaire</value>
+    <value>Aggiungi un commento</value>
   </data>
   <data name="ADD_BANK?_BUTTON" xml:space="preserve">
-    <value>Ajouter une banque</value>
+    <value>Aggiungi banca</value>
   </data>
   <data name="ADD_BANK_INFO_LABEL" xml:space="preserve">
-    <value>Ajouter des informations bancaires</value>
+    <value>Aggiungi informazioni bancarie</value>
   </data>
   <data name="ADD_SOME_MORE_DETAILS_OR_A_DESCRIPTION_PLACEHOLDER" xml:space="preserve">
-    <value>Ajouter plus de détails ou une description</value>
+    <value>Aggiungi maggiori dettagli o descrizione</value>
   </data>
   <data name="ADRRESS_PLACEHOLDER" xml:space="preserve">
-    <value>Direction</value>
+    <value>Direzione</value>
   </data>
   <data name="ALLOW_BUYER_TO_SEND_NOTES_AFTER_PURCHASE_LABEL" xml:space="preserve">
-    <value>Autorisez votre fan à vous envoyer un message à propos de cet achat.</value>
+    <value>Consenti al tuo fan di inviarti messaggi su questo acquisto.</value>
   </data>
   <data name="ALL_LABEL" xml:space="preserve">
-    <value>Tous</value>
+    <value>Tutti</value>
   </data>
   <data name="ALREADY_HAVE_AN_ACCOUNT?_LABEL" xml:space="preserve">
-    <value>Avez-vous un compte?</value>
+    <value>Hai un account?</value>
   </data>
   <data name="AMOUNT_PLACEHOLDER" xml:space="preserve">
-    <value>Montant</value>
+    <value>Importo</value>
   </data>
   <data name="BANKING_INFORMATION_LABEL" xml:space="preserve">
-    <value>information bancaire</value>
+    <value>informazioni bancarie</value>
   </data>
   <data name="BIO_LABEL" xml:space="preserve">
     <value>Bio</value>
   </data>
   <data name="BUY_BUTTON" xml:space="preserve">
-    <value>Acquérir</value>
+    <value>Acquistare</value>
   </data>
   <data name="CANCEL_BUTTON" xml:space="preserve">
-    <value>Annuler</value>
+    <value>Annulla</value>
   </data>
   <data name="CANCEL_SUBSCRIPTION_LABEL" xml:space="preserve">
-    <value>Se désabonner</value>
+    <value>Annullare l'iscrizione</value>
   </data>
   <data name="CARD_NUMBER_PLACEHOLDER" xml:space="preserve">
-    <value>Numéro de carte</value>
+    <value>Numero di carta</value>
   </data>
   <data name="CHANGE_PASSWORD_LABEL" xml:space="preserve">
-    <value>changez votre mot de passe</value>
+    <value>Cambia la password</value>
   </data>
   <data name="CITY_PLACEHOLDER" xml:space="preserve">
-    <value>Ville</value>
+    <value>Città</value>
   </data>
   <data name="CLICK_TO_UPLOAD_AUDIO_LABEL" xml:space="preserve">
-    <value>Cliquez pour télécharger l'audio</value>
+    <value>Fare clic per scaricare l'audio</value>
   </data>
   <data name="COMMENTS_PLACEHOLDER" xml:space="preserve">
-    <value>commentaires</value>
+    <value>Commenti</value>
   </data>
   <data name="COMPLETE_PROFILE_BUTTON" xml:space="preserve">
-    <value>complète ton profil</value>
+    <value>Completa il tuo profilo</value>
   </data>
   <data name="CONFIRM_PASSWORD_PLACEHOLDER" xml:space="preserve">
-    <value>Confirmez le mot de passe</value>
+    <value>Conferma password</value>
   </data>
   <data name="COPY_PROFILE_LINK_BUTTON" xml:space="preserve">
-    <value>Copier le profil</value>
+    <value>Copia profilo</value>
   </data>
   <data name="CREATE_LABEL" xml:space="preserve">
-    <value>Créer</value>
+    <value>Creare</value>
   </data>
   <data name="CREATE_ONE_NOW_OR_CHOOSE_FROM_EXISTING_TO_ENABLE_RECURRING_PAYMENTS_PLACEHOLDER" xml:space="preserve">
-    <value>Créez un nouvel abonnement ou ajoutez un abonnement existant !</value>
+    <value>Crea un nuovo abbonamento o aggiungi un abbonamento esistente!</value>
   </data>
   <data name="CURRENT_PASSWORD_PLACEHOLDER" xml:space="preserve">
-    <value>Mot de passe actuel</value>
+    <value>Password attuale</value>
   </data>
   <data name="DATE_OF_BIRTH_PLACEHOLDER" xml:space="preserve">
-    <value>Date de naissance</value>
+    <value>Data di nascita</value>
   </data>
   <data name="DONE_BUTTON" xml:space="preserve">
-    <value>Finaliser</value>
+    <value>Per finalizzare</value>
   </data>
   <data name="EDIT_PROFILE_BUTTON" xml:space="preserve">
-    <value>Editer le profil</value>
+    <value>Modifica Profilo</value>
   </data>
   <data name="EVERYONE_LABEL" xml:space="preserve">
-    <value>Pour tout le monde</value>
+    <value>Per tutti</value>
   </data>
   <data name="FANS_LABEL" xml:space="preserve">
-    <value>Ventilateurs</value>
+    <value>Fans</value>
   </data>
   <data name="FIRST_NAME_PLACEHOLDER" xml:space="preserve">
-    <value>Prénom</value>
+    <value>Nome</value>
   </data>
   <data name="FOLLOWERS_LABEL" xml:space="preserve">
-    <value>Suiveurs</value>
+    <value>Seguaci</value>
   </data>
   <data name="FOLLOWING_LABEL" xml:space="preserve">
-    <value>Suivant</value>
+    <value>Seguente</value>
   </data>
   <data name="FULL_NAME_PLACEHOLDER" xml:space="preserve">
-    <value>Nom et prénom</value>
+    <value>Nome e cognome</value>
   </data>
   <data name="FYI,_THIS_IS_FOR_ONE-TIME_PAYMENTS_OR_TIPS._FOR_SUBSCRIPTION_PAYMENTS_OR_PAID_POSTS,_CLICK_ON_THE_SUBSCIPRTION_OR_POST_TAB!_LABEL" xml:space="preserve">
-    <value>Il s'agit d'envoyer un paiement ou un pourboire. Pour les abonnements ou les articles, cliquez sur l'article ou l'abonnement.</value>
+    <value>Questo serve per inviare un pagamento o una mancia. Per abbonamenti o articoli, fare clic sull'articolo o sull'abbonamento.</value>
   </data>
   <data name="HEY,_YOU_DON'T_HAVE_ANY_YET!_LABEL" xml:space="preserve">
-    <value>Vous n'avez pas encore de contenu.</value>
+    <value>Non hai ancora contenuto.</value>
   </data>
   <data name="HOME_LABEL" xml:space="preserve">
     <value>Home</value>
   </data>
   <data name="INSTRUCTIONS_FOR_BUYER_PLACEHOLDER" xml:space="preserve">
-    <value>Instructions pour le ventilateur</value>
+    <value>Istruzioni per il fan</value>
   </data>
   <data name="LAST_4_SSN_PLACEHOLDER" xml:space="preserve">
-    <value>SSN 4 derniers chiffres</value>
+    <value>SSN ultimele 4 cifre</value>
   </data>
   <data name="LAST_NAME_PLACEHOLDER" xml:space="preserve">
-    <value>Nom</value>
+    <value>Cognome</value>
   </data>
   <data name="LIKES_LABEL" xml:space="preserve">
     <value>Likes</value>
   </data>
   <data name="LOCATION_LABEL" xml:space="preserve">
-    <value>Position</value>
+    <value>Posizione</value>
   </data>
   <data name="LOCATION_PLACEHOLDER" xml:space="preserve">
-    <value>Position</value>
+    <value>Posizione</value>
   </data>
   <data name="MAKE_MONEY_ON_YOUR_CONTENT_LABEL" xml:space="preserve">
-    <value>Gagnez de l'argent avec votre contenu !</value>
+    <value>Guadagna con i tuoi contenuti!</value>
   </data>
   <data name="MAKE_MORE_DOING_WHAT_YOU_LOVE!_LABEL" xml:space="preserve">
-    <value>Gagnez plus en faisant ce que vous aimez !</value>
+    <value>Guadagna di più facendo ciò che ami!</value>
   </data>
   <data name="MANAGE_SUBSCRIPTIONS_LABEL" xml:space="preserve">
-    <value>Gérer les abonnements</value>
+    <value>Gestisci le iscrizioni</value>
   </data>
   <data name="MONETIZE_THE_POST_LABEL" xml:space="preserve">
-    <value>Monétiser ce post</value>
+    <value>Monetizza questo post</value>
   </data>
   <data name="MONTHLY_PLACEHOLDER" xml:space="preserve">
-    <value>Mensuel</value>
+    <value>Mensile</value>
   </data>
   <data name="MONTH_LABEL" xml:space="preserve">
-    <value>Mensuel</value>
+    <value>Mensile</value>
   </data>
   <data name="MUSIC/AUDIO/ALBUM/PODCAST_LABEL" xml:space="preserve">
-    <value>Musique / Audio / Album / Podcast</value>
+    <value>Musica/Audio/Album/Podcast</value>
   </data>
   <data name="MUSIC_LABEL" xml:space="preserve">
-    <value>Musique</value>
+    <value>Musica</value>
   </data>
   <data name="MYFAM_LABEL" xml:space="preserve">
-    <value>Ma FAM</value>
+    <value>Mia Fam</value>
   </data>
   <data name="MY_WALLET_LABEL" xml:space="preserve">
-    <value>Mon portfolio</value>
+    <value>Il mio portfolio</value>
   </data>
   <data name="M_AGO_LABEL" xml:space="preserve">
-    <value>je suis derrière</value>
+    <value>m dietro</value>
   </data>
   <data name="NEW_PASSWORD_PLACEHOLDER" xml:space="preserve">
-    <value>Nouveau mot de passe</value>
+    <value>nuova password</value>
   </data>
   <data name="NEXT_BUTTON" xml:space="preserve">
-    <value>Le prochain</value>
+    <value>Prossimo</value>
   </data>
   <data name="NO_SUBSCRIBERS_YET!_LABEL" xml:space="preserve">
-    <value>Vous n'avez actuellement aucun abonné !</value>
+    <value>Al momento non hai iscritti!</value>
   </data>
   <data name="NO_TRANSACTIONS_YET!_LABEL" xml:space="preserve">
-    <value>Vous n'avez pas encore de paiements !</value>
+    <value>Non hai ancora pagamenti!</value>
   </data>
   <data name="OFFER_A_SUBSCRIPTION_LABEL" xml:space="preserve">
-    <value>Créer un abonnement</value>
+    <value>Crea un abbonamento</value>
   </data>
   <data name="PAYMENT_INFORMATION_LABEL" xml:space="preserve">
-    <value>Informations de paiement</value>
+    <value>Informazioni sul pagamento</value>
   </data>
   <data name="PAY_BUTTON" xml:space="preserve">
-    <value>Payer</value>
+    <value>Pagare</value>
   </data>
   <data name="PERSONAL_&amp;_BANK_INFO_PLACEHOLDER" xml:space="preserve">
-    <value>Informations personnelles et bancaires</value>
+    <value>Informazioni personali e bancarie</value>
   </data>
   <data name="PERSONAL_INFORMATION_LABEL" xml:space="preserve">
-    <value>Renseignements personnels</value>
+    <value>Informazione personale</value>
   </data>
   <data name="PER_MONTH_PLACEHOLDER" xml:space="preserve">
-    <value>Par mois</value>
+    <value>Al mese</value>
   </data>
   <data name="PHONE_NUMBER_PLACEHOLDER" xml:space="preserve">
-    <value>Numéro de téléphone</value>
+    <value>Numero di telefono</value>
   </data>
   <data name="PHOTO_VIDEO_LABEL" xml:space="preserve">
-    <value>Photo/Vidéo</value>
+    <value>Foto/Video</value>
   </data>
   <data name="PLAYLIST_NAME_PLACEHOLDER" xml:space="preserve">
-    <value>Nom de la liste de lecture</value>
+    <value>Nome della playlist</value>
   </data>
   <data name="PODCAST_LABEL" xml:space="preserve">
     <value>Podcast</value>
   </data>
   <data name="POSTS_LABEL" xml:space="preserve">
-    <value>Ouvrages</value>
+    <value>Pubblicazioni</value>
   </data>
   <data name="POST_LABEL" xml:space="preserve">
-    <value>Envoyer</value>
+    <value>Inviare</value>
   </data>
   <data name="PREFERENCES_LABEL" xml:space="preserve">
-    <value>préférences</value>
+    <value>preferenze</value>
   </data>
   <data name="PRICE_PLACEHOLDER" xml:space="preserve">
-    <value>Prix</value>
+    <value>Prezzo</value>
   </data>
   <data name="PRIVATE_LINK_PLACEHOLDER" xml:space="preserve">
-    <value>Lien privé</value>
+    <value>Link privato</value>
   </data>
   <data name="RECEIVED_LABEL" xml:space="preserve">
-    <value>A reçu</value>
+    <value>Ricevuto</value>
   </data>
   <data name="RENEW_BUTTON" xml:space="preserve">
-    <value>Renouveler</value>
+    <value>Rinnovare</value>
   </data>
   <data name="ROUTING_NUMBER_PLACEHOLDER" xml:space="preserve">
-    <value>Numéro d'itinéraire</value>
+    <value>Numero di percorso</value>
   </data>
   <data name="SALES_LABEL" xml:space="preserve">
-    <value>Ventes</value>
+    <value>I saldi</value>
   </data>
   <data name="SAVE_BUTTON" xml:space="preserve">
-    <value>Garde</value>
+    <value>Guardia</value>
   </data>
   <data name="SEARCH_ALL_PLACEHOLDER" xml:space="preserve">
-    <value>Chercher</value>
+    <value>Cercare</value>
   </data>
   <data name="SEARCH_FOR_USERS-AND_SEND_PAYMENTS_LABEL" xml:space="preserve">
-    <value>Trouver des utilisateurs et envoyer des paiements</value>
+    <value>Trova utenti e invia pagamenti</value>
   </data>
   <data name="SEE_LESS_LABEL" xml:space="preserve">
-    <value>Voir moins</value>
+    <value>Vedi di meno</value>
   </data>
   <data name="SEE_MORE_LABEL" xml:space="preserve">
-    <value>Voir plus</value>
+    <value>Vedi altro</value>
   </data>
   <data name="SELECT_CATEGORY_PLACEHOLDER" xml:space="preserve">
-    <value>Choisir une catégorie</value>
+    <value>Seleziona categoria</value>
   </data>
   <data name="SELECT_COUNTRY_PLACEHOLDER" xml:space="preserve">
-    <value>Sélectionnez votre pays</value>
+    <value>Seleziona il paese</value>
   </data>
   <data name="SELECT_CURRENCY_PLACEHOLDER" xml:space="preserve">
-    <value>Sélectionnez votre devise</value>
+    <value>Seleziona la tua Valuta</value>
   </data>
   <data name="SELECT_POST_TYPE_LABEL" xml:space="preserve">
-    <value>Sélectionnez le type de publication</value>
+    <value>Seleziona il tipo di pubblicazione</value>
   </data>
   <data name="SELL_MUSIC,_VIDEOS,_PODCASTS,_MEET-AND-GREETS,_EXPERIENCES,_MERCH_AND_ANYTHING_YOU_CREATE!_LABEL" xml:space="preserve">
-    <value>Vendez de la musique, des vidéos, des podcasts, des réunions, des expériences, des marchandises et tout ce que vous voulez !</value>
+    <value>Vendi musica, video, podcast, riunioni, esperienze, merchandising e tutto ciò che desideri!</value>
   </data>
   <data name="SELL_SOMETHING_LABEL" xml:space="preserve">
-    <value>Vendez ce que vous voulez !</value>
+    <value>Vendi quello che vuoi!</value>
   </data>
   <data name="SEND_ONE_TIME_PAYMENTS_POPUP_LABEL" xml:space="preserve">
-    <value>versement du paiement</value>
+    <value>inviare un pagamento</value>
   </data>
   <data name="SEND_PAYMENT_PLACEHOLDER" xml:space="preserve">
-    <value>Envoyez le paiement</value>
+    <value>Inviare il pagamento</value>
   </data>
   <data name="SEND_PLACEHOLDER" xml:space="preserve">
-    <value>Envoyer</value>
+    <value>Spedire</value>
   </data>
   <data name="SIGN_OUT_LABEL" xml:space="preserve">
-    <value>Approuver</value>
+    <value>Cancella la sottoscrizione</value>
   </data>
   <data name="SKIP_FOR_NOW_BUTTON" xml:space="preserve">
-    <value>Ignorer pour l'instant!</value>
+    <value>Salta per ora!</value>
   </data>
   <data name="SKIP_LABEL" xml:space="preserve">
-    <value>Sauter</value>
+    <value>Saltare</value>
   </data>
   <data name="STATE_PLACEHOLDER" xml:space="preserve">
-    <value>État</value>
+    <value>Condizione</value>
   </data>
   <data name="STORE_LABEL" xml:space="preserve">
-    <value>Boutique</value>
+    <value>Negozio</value>
   </data>
   <data name="SUBSCRIBERS_LABEL" xml:space="preserve">
-    <value>Les abonnés</value>
+    <value>Iscritti</value>
   </data>
   <data name="SUBSCRIPTION_NAME_PLACEHOLDER" xml:space="preserve">
-    <value>Nom de l'abonnement</value>
+    <value>Nome dell'abbonamento</value>
   </data>
   <data name="SUPPORT_&amp;_FEEDBACK_LABEL" xml:space="preserve">
-    <value>Aide et commentaires</value>
+    <value>Aiuto e feedback</value>
   </data>
   <data name="THIS_INFORMATION_IS_REQUIRED_TO_ACCEPT_PAYMENTS_LABEL" xml:space="preserve">
-    <value>Ces informations sont nécessaires pour recevoir les paiements.</value>
+    <value>Queste informazioni sono necessarie per ricevere i pagamenti.</value>
   </data>
   <data name="THIS_INFORMATION_IS_REQUIRED_TO_RECEIVE_YOUR_FUNDS,_HOWEVER_YOU_CAN_SKIP_THIS_INFORMATION_AND_ADD_IT_LATER._WE_WILL_REMIND_YOU!_LABEL" xml:space="preserve">
-    <value>Ces informations sont nécessaires pour recevoir vos fonds. Cependant, vous pouvez ignorer maintenant et l'ajouter plus tard. Dans tous les cas, vous pouvez maintenant vendre et recevoir de l'argent.</value>
+    <value>Queste informazioni sono necessarie per ricevere i tuoi fondi. Tuttavia, puoi saltare ora e aggiungerlo in seguito. Ad ogni modo, ora puoi vendere e ricevere denaro.</value>
   </data>
   <data name="TODAY'S_EARNINGS_LABEL" xml:space="preserve">
-    <value>Gagnez de l'argent aujourd'hui!</value>
+    <value>Guadagno oggi!</value>
   </data>
   <data name="TRANSACTIONS_LABEL" xml:space="preserve">
-    <value>transactions</value>
+    <value>transazioni</value>
   </data>
   <data name="UPLOAD_AN_ARTWORK_PLACEHOLDER" xml:space="preserve">
-    <value>Télécharger une photo</value>
+    <value>Carica una foto</value>
   </data>
   <data name="USERNAME_LABEL" xml:space="preserve">
-    <value>Nom d'utilisateur</value>
+    <value>Nome utente</value>
   </data>
   <data name="USERNAME_PLACEHOLDER" xml:space="preserve">
-    <value>Nom d'utilisateur</value>
+    <value>Nome utente</value>
   </data>
   <data name="VIEW_PROFILE_LABEL" xml:space="preserve">
-    <value>Voir le profil</value>
+    <value>Visualizza profilo</value>
   </data>
   <data name="Welcome" xml:space="preserve">
-    <value>Bienvenue à famigo</value>
+    <value>**</value>
     <comment>chk</comment>
   </data>
   <data name="WELCOME_TO_FAMIGO_LABEL" xml:space="preserve">
-    <value>Bienvenue sur FAMIGO!</value>
+    <value>Benvenuto a FAMIGO!</value>
   </data>
   <data name="WHATS_IN_YOUR_MIND_PLACEHOLDER" xml:space="preserve">
-    <value>A quoi penses-tu?</value>
+    <value>A cosa stai pensando?</value>
   </data>
   <data name="WHO_CAN_VIEW_THIS_POST_LABEL" xml:space="preserve">
-    <value>Qui verra ce post ?</value>
+    <value>Chi vedrà questo post?</value>
   </data>
   <data name="YOU_DON'T_HAVE_ANY_STORE_ITEMS_YET!_ADD_YOUR_ITEM_BY_CLICKING_THE_BUTTON_AT_BOTTOM!_LABEL" xml:space="preserve">
-    <value>Vous n'avez créé aucun article à vendre. Ajoutez des articles ou créez des abonnements en activant le bouton.</value>
+    <value>Non hai creato articoli in vendita. Aggiungi articoli o crea abbonamenti attivando il pulsante.</value>
   </data>
   <data name="YOU_DONT_HAVE_ANY_CONTENT_YET!_CLICK_HERE_TO_CREATE_YOUR_FIRTS_POST_LABEL" xml:space="preserve">
-    <value>Vous n'avez pas encore de message. Cliquez ici pour créer votre première publication.</value>
+    <value>Non hai ancora messaggi. Clicca qui per creare la tua prima pubblicazione.</value>
   </data>
   <data name="ZIP_CODE_PLACEHOLDER" xml:space="preserve">
-    <value>Code Postal</value>
+    <value>codice postale</value>
   </data>
 </root>
