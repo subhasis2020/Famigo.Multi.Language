@@ -121,11 +121,7 @@
     <value>Tus Seguidores</value>
   </data>
   <data name="AboutUs" xml:space="preserve">
-    <value>Good things happen when technology meets fairness!
-At FAMIGO, we support fans and creators alike with a suite of technology tools to create content, engage your fans, create subscriptions, and sell pretty much anything you can imagine to a worldwide audience!
-Better yet, at FAMIGO, everyone is equal. Same tools at no extra cost. We are also cross platform in Web, iPhone, and Android so you can be creative on the go and your fans can have a richer experience.
-Ah, we don't have funky rules or algorithms, and no unfair fees so you can</value>
-    <comment>need to check</comment>
+    <value>¡Suceden cosas buenas cuando la tecnología se encuentra con la justicia! En FAMIGO, apoyamos tanto a los fans como a los creadores con un conjunto de herramientas tecnológicas para crear contenido, involucrar a tus fans, crear suscripciones y vender casi cualquier cosa que puedas imaginar a una audiencia mundial. Mejor aún, en FAMIGO todos somos iguales. Las mismas herramientas sin costo adicional. También somos multiplataforma en Web, iPhone y Android para que pueda ser creativo sobre la marcha y sus fans puedan tener una experiencia más rica. Ah, no tenemos reglas ni algoritmos raros, ni tarifas injustas para que pueda</value>
   </data>
   <data name="ACCOUNT_NUMBER_PLACEHOLDER" xml:space="preserve">
     <value>Número de Cuenta</value>
@@ -449,8 +445,7 @@ Ah, we don't have funky rules or algorithms, and no unfair fees so you can</valu
     <value>Ver Perfil</value>
   </data>
   <data name="Welcome" xml:space="preserve">
-    <value>Welcome to famigo</value>
-    <comment>need to check</comment>
+    <value>Bienvenida a famigo</value>
   </data>
   <data name="WELCOME_TO_FAMIGO_LABEL" xml:space="preserve">
     <value>Bienvenido a FAMIGO!</value>

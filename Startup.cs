@@ -24,6 +24,7 @@ namespace Famigo.MultiLanguage
         /// <param name="services"></param>
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllersWithViews();
             services.AddLocalization(options => options.ResourcesPath = "Resources");
 
             services.AddMvc()

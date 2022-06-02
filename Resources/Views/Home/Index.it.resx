@@ -121,8 +121,7 @@
     <value>I tuoi follower</value>
   </data>
   <data name="AboutUs" xml:space="preserve">
-    <value>******************</value>
-    <comment>chk</comment>
+    <value>Le cose belle accadono quando la tecnologia incontra l'equità! In FAMIGO, supportiamo fan e creatori allo stesso modo con una suite di strumenti tecnologici per creare contenuti, coinvolgere i tuoi fan, creare abbonamenti e vendere praticamente tutto ciò che puoi immaginare a un pubblico mondiale! Meglio ancora, in FAMIGO, tutti sono uguali. Stessi strumenti senza costi aggiuntivi. Siamo anche multipiattaforma su Web, iPhone e Android, quindi puoi essere creativo in movimento e i tuoi fan possono vivere un'esperienza più ricca. Ah, non abbiamo regole o algoritmi stravaganti e nessuna commissione ingiusta, quindi puoi</value>
   </data>
   <data name="ACCOUNT_NUMBER_PLACEHOLDER" xml:space="preserve">
     <value>Numero di conto</value>
@@ -449,8 +448,7 @@
     <value>Visualizza profilo</value>
   </data>
   <data name="Welcome" xml:space="preserve">
-    <value>**</value>
-    <comment>chk</comment>
+    <value>Benvenuto in Famigo</value>
   </data>
   <data name="WELCOME_TO_FAMIGO_LABEL" xml:space="preserve">
     <value>Benvenuto a FAMIGO!</value>

@@ -430,8 +430,7 @@ Ah, we don't have funky rules or algorithms, and no unfair fees so you can</valu
     <value>This information is required to accept payments</value>
   </data>
   <data name="THIS_INFORMATION_IS_REQUIRED_TO_RECEIVE_YOUR_FUNDS,_HOWEVER_YOU_CAN_SKIP_THIS_INFORMATION_AND_ADD_IT_LATER._WE_WILL_REMIND_YOU!_LABEL" xml:space="preserve">
-    <value>**</value>
-    <comment>value not found</comment>
+    <value>This information is necessary to receive your funds. However, you can skip now and add it later. Anyway, you can now sell and receive money.</value>
   </data>
   <data name="TODAY'S_EARNINGS_LABEL" xml:space="preserve">
     <value>Today's Earnings</value>
