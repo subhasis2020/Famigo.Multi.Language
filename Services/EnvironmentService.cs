@@ -3,6 +3,9 @@ using System;
 
 namespace Famigo.MultiLanguage.Services
 {
+    /// <summary>
+    /// This service will handle the environment
+    /// </summary>
     public class EnvironmentService : IEnvironmentService
     {
         public EnvironmentService()

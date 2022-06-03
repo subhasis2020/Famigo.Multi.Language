@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Famigo.MultiLanguage.Services
 {
+    /// <summary>
+    /// This service will return configuration based on enviroment
+    /// </summary>
     public class ConfigurationService : IConfigurationService
     {
         public IEnvironmentService EnvService { get; }
@@ -26,7 +29,6 @@ namespace Famigo.MultiLanguage.Services
                 .Build();
         }
     }
-
 
     public interface IConfigurationService
     {

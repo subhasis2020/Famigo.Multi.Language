@@ -7,6 +7,12 @@ namespace Famigo.MultiLanguage.Controllers
 {
     public class CultureController : Controller
     {
+        /// <summary>
+        /// Setting Culture based on localization
+        /// </summary>
+        /// <param name="culture"></param>
+        /// <param name="returnUrl"></param>
+        /// <returns></returns>
         [HttpPost]
         public IActionResult SetCulture(string culture, string returnUrl)
         {

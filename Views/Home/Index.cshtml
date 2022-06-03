@@ -1,12 +1,12 @@
 ﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
-@inject Famigo.MultiLanguage.Services.IGlobalizationService _globalizationService ; 
+@inject Famigo.MultiLanguage.Services.ILocalizationService _localizationService ; 
 @{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4"> @_globalizationService.GetCurrentCultureResource("Welcome")</h1>
+    <h1 class="display-4"> @_localizationService.GetCurrentCultureResource("Welcome")</h1>
     
     <br />
-    <p style="background-color:khaki; height:400px; text-align:left;padding:20px;">@_globalizationService.GetCurrentCultureResource("AboutUs")</p>     
+    <p style="background-color:khaki; height:400px; text-align:left;padding:20px;">@_localizationService.GetCurrentCultureResource("AboutUs")</p>     
 </div>

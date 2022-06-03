@@ -1,12 +1,13 @@
-﻿using Famigo.MultiLanguage.Services;
-using Microsoft.Extensions.DependencyInjection;
-using System.Collections;
+﻿using System.Collections;
 using System.Globalization;
 using System.Resources.NetStandard;
 
 namespace Famigo.MultiLanguage.Services
 {
-    public class GlobalizationService : IGlobalizationService
+    /// <summary>
+    /// This service is used to handle multilingual
+    /// </summary>
+    public class LocalizationService : ILocalizationService
     {
         public IConfigurationService _config { get; }
         private readonly string _path = @"C:\Famigo\Core\Resources\";
@@ -16,12 +17,20 @@ namespace Famigo.MultiLanguage.Services
         private readonly string _frResourceFile = "Resource.fr.resx";
         private readonly string _ptResourceFile = "Resource.pt.resx";
 
-
-        public GlobalizationService(IConfigurationService config)
+        /// <summary>
+        /// Ctor
+        /// </summary>
+        /// <param name="config"></param>
+        public LocalizationService(IConfigurationService config)
         {
             _config = config;
         }
 
+        /// <summary>
+        /// Fetching Resource based on culture
+        /// </summary>
+        /// <param name="key"></param>
+        /// <returns></returns>
         public string GetCurrentCultureResource(string key)
         {
             var res = "";

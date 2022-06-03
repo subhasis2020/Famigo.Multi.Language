@@ -35,7 +35,7 @@ namespace Famigo.MultiLanguage
             
             services.AddSingleton<IConfigurationService, ConfigurationService>();
             services.AddSingleton<IEnvironmentService, EnvironmentService>();
-            services.AddTransient<IGlobalizationService, GlobalizationService>();
+            services.AddTransient<ILocalizationService, LocalizationService>();
 
             services.Configure<RequestLocalizationOptions>(options =>
             {
