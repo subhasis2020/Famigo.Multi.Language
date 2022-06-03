@@ -6,28 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="wwwroot\ResourcesHelper\Index.en.resx" />
-    <Content Remove="wwwroot\ResourcesHelper\Index.es.resx" />
-    <Content Remove="wwwroot\ResourcesHelper\Index.fr.resx" />
-    <Content Remove="wwwroot\ResourcesHelper\Index.it.resx" />
-    <Content Remove="wwwroot\ResourcesHelper\Index.pt.resx" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <_ContentIncludedByDefault Remove="wwwroot\ResourcesHelper\Index.es.resx" />
-    <_ContentIncludedByDefault Remove="wwwroot\ResourcesHelper\Index.fr.resx" />
-    <_ContentIncludedByDefault Remove="wwwroot\ResourcesHelper\Index.it.resx" />
-    <_ContentIncludedByDefault Remove="wwwroot\ResourcesHelper\Index.pt.resx" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.en.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.es.resx" />
-    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.fr.resx" />
-    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.it.resx" />
-    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.pt.resx" />
+    <Content Remove="Resources\Resource.en.resx" />
+    <Content Remove="Resources\Resource.es.resx" />
+    <Content Remove="Resources\Resource.fr.resx" />
+    <Content Remove="Resources\Resource.it.resx" />
+    <Content Remove="Resources\Resource.pt.resx" />
   </ItemGroup>
 
   <ItemGroup>
@@ -36,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Resources\Views\Home\Index.en.resx">
+    <EmbeddedResource Update="Resources\Resource.en.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
   </ItemGroup>

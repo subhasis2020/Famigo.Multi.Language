@@ -6,6 +6,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Globalization;
 using Microsoft.Extensions.Options;
+using Famigo.MultiLanguage.Helpers;
+using Famigo.MultiLanguage.Services;
 
 namespace Famigo.MultiLanguage
 {
@@ -30,7 +32,10 @@ namespace Famigo.MultiLanguage
             services.AddMvc()
                 .AddViewLocalization(Microsoft.AspNetCore.Mvc.Razor.LanguageViewLocationExpanderFormat.Suffix)
                 .AddDataAnnotationsLocalization();
-
+                   
+            services.AddSingleton<IConfigurationService, ConfigurationService>();
+            services.AddSingleton<IEnvironmentService, EnvironmentService>();
+            services.AddTransient<IGlobalizationService, GlobalizationService>();
 
             services.Configure<RequestLocalizationOptions>(options =>
             {
