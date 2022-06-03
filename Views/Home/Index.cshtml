@@ -1,10 +1,13 @@
 ﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@using Famigo.MultiLanguage.Helpers ; 
 @{
     ViewData["Title"] = "Home Page";
+   // var ob = new CustomCultureInfo();
 }
 
 <div class="text-center">
-    <h1 class="display-4">@localizer["Welcome"]</h1>
+    <h1 class="display-4"> @CustomCultureInfo.GetCultureInfoValue("Welcome")</h1>
+    
     <br />
-    <p style="background-color:khaki; height:400px; text-align:left;padding:20px;">@localizer["AboutUs"]</p>     
+    <p style="background-color:khaki; height:400px; text-align:left;padding:20px;">@CustomCultureInfo.GetCultureInfoValue("AboutUs")</p>     
 </div>

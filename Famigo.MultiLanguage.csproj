@@ -5,4 +5,40 @@
     <UserSecretsId>aspnet-Famigo.MultiLanguage-A5ACB6F5-0E70-4FB2-8A0D-FBCD86DBEB93</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\ResourcesHelper\Index.en.resx" />
+    <Content Remove="wwwroot\ResourcesHelper\Index.es.resx" />
+    <Content Remove="wwwroot\ResourcesHelper\Index.fr.resx" />
+    <Content Remove="wwwroot\ResourcesHelper\Index.it.resx" />
+    <Content Remove="wwwroot\ResourcesHelper\Index.pt.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\ResourcesHelper\Index.es.resx" />
+    <_ContentIncludedByDefault Remove="wwwroot\ResourcesHelper\Index.fr.resx" />
+    <_ContentIncludedByDefault Remove="wwwroot\ResourcesHelper\Index.it.resx" />
+    <_ContentIncludedByDefault Remove="wwwroot\ResourcesHelper\Index.pt.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.en.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.es.resx" />
+    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.fr.resx" />
+    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.it.resx" />
+    <EmbeddedResource Include="wwwroot\ResourcesHelper\Index.pt.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ResXResourceReader.NetStandard" Version="1.1.0" />
+    <PackageReference Include="System.Resources.ResourceManager" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\Views\Home\Index.en.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
 </Project>
