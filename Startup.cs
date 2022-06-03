@@ -32,7 +32,7 @@ namespace Famigo.MultiLanguage
             services.AddMvc()
                 .AddViewLocalization(Microsoft.AspNetCore.Mvc.Razor.LanguageViewLocationExpanderFormat.Suffix)
                 .AddDataAnnotationsLocalization();
-                   
+            
             services.AddSingleton<IConfigurationService, ConfigurationService>();
             services.AddSingleton<IEnvironmentService, EnvironmentService>();
             services.AddTransient<IGlobalizationService, GlobalizationService>();

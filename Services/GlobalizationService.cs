@@ -6,58 +6,67 @@ using System.Resources.NetStandard;
 
 namespace Famigo.MultiLanguage.Services
 {
-    public class GlobalizationService: IGlobalizationService
+    public class GlobalizationService : IGlobalizationService
     {
         public IConfigurationService _config { get; }
-            
+        private readonly string _path = @"C:\Famigo\Core\Resources\";
+        private readonly string _enResourceFile = "Resource.en.resx";
+        private readonly string _esResourceFile = "Resource.es.resx";
+        private readonly string _itResourceFile = "Resource.it.resx";
+        private readonly string _frResourceFile = "Resource.fr.resx";
+        private readonly string _ptResourceFile = "Resource.pt.resx";
+
+
         public GlobalizationService(IConfigurationService config)
         {
-            _config = config;            
+            _config = config;
         }
 
         public string GetCurrentCultureResource(string key)
-        {           
-            var res = ""; 
+        {
+            var res = "";
             try
             {
                 string resxFilePath = string.Empty;
+                
                 string _culture = CultureInfo.CurrentCulture.Name ?? "en";
 
                 switch (_culture)
                 {
-                    case "en":  
-                        resxFilePath = @"C:\Famigo\Core\Resources\Resource.en.resx";
-                        break; 
-                    case "es":  
-                        resxFilePath = @"C:\Famigo\Core\Resources\Resource.es.resx";
-                        break; 
-                    case "it":  
-                        resxFilePath = @"C:\Famigo\Core\Resources\Resource.it.resx";
-                        break; 
-                    case "fr":  
-                        resxFilePath = @"C:\Famigo\Core\Resources\Resource.fr.resx";
-                        break; 
-                    case "pt":  
-                        resxFilePath = @"C:\Famigo\Core\Resources\Resource.pt.resx";
-                        break;                   
+                    case "en":
+                        resxFilePath = _path + _enResourceFile;
+                        break;
+                    case "es":
+                        resxFilePath = _path + _esResourceFile;
+                        break;
+                    case "it":
+                        resxFilePath = _path + _itResourceFile;
+                        break;
+                    case "fr":
+                        resxFilePath = _path + _frResourceFile;
+                        break;
+                    case "pt":
+                        resxFilePath = _path + _ptResourceFile;
+                        break;
                 }
 
+                //need to cache to increase the performence and reduce file operations
 
                 using (ResXResourceReader resxReader = new ResXResourceReader(resxFilePath))
                 {
                     foreach (DictionaryEntry entry in resxReader)
                     {
                         if (((string)entry.Key).Equals(key))
-                            res = entry.Value.ToString();                        
+                            res = entry.Value.ToString();
                     }
                 }
             }
-            catch (System.Exception)
+            catch (System.Exception ex )
             {
 
-                throw;
+                throw ex;
             }
-           
+
             return res;
         }
     }
